@@ -1,4 +1,6 @@
-[Copy of Controls and compliance checklist.md](https://github.com/user-attachments/files/20885737/Copy.of.Controls.and.compliance.checklist.md)# Security-Compliance-Lab
+[Copy of Controls and compliance checklist.md](https://github.com/user-attachments/files/20885737/Copy.of.Controls.and.compliance.checklist.md)
+
+# Security-Compliance-Lab
 
 ## Objective
 
@@ -89,20 +91,20 @@ Then, select “yes” or “no” to answer the question: *Does Botium Toys cur
 
 |   Yes |     No | Control |
 | ----- | ----- | :---- |
-|  |  | Least Privilege |
-|  |  | Disaster recovery plans |
-|  |  | Password policies |
-|  |  | Separation of duties |
-|  |  | Firewall |
-|  |  | Intrusion detection system (IDS) |
-|  |  | Backups |
-|  |  | Antivirus software |
-|  |  | Manual monitoring, maintenance, and intervention for legacy systems |
-|  |  | Encryption |
-|  |  | Password management system |
-|  |  | Locks (offices, storefront, warehouse) |
-|  |  | Closed-circuit television (CCTV) surveillance |
-|  |  | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
+|  | No | Least Privilege |
+|  | No | Disaster recovery plans |
+|  | No | Password policies |
+|  | No | Separation of duties |
+| Yes |  | Firewall |
+|  | No | Intrusion detection system (IDS) |
+|  | No | Backups |
+| Yes |  | Antivirus software |
+| Yes |  | Manual monitoring, maintenance, and intervention for legacy systems |
+|  | No | Encryption |
+|  | No | Password management system |
+| Yes |  | Locks (offices, storefront, warehouse) |
+| Yes |  | Closed-circuit television (CCTV) surveillance |
+| Yes |  | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
 ---
 
@@ -116,28 +118,28 @@ Payment Card Industry Data Security Standard (PCI DSS)
 
 | Yes |     No | Best practice |
 | ----- | ----- | :---- |
-|  |  | Only authorized users have access to customers’ credit card information.  |
-|  |  | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |
-|  |  | Implement data encryption procedures to better secure credit card transaction touchpoints and data.  |
-|  |  | Adopt secure password management policies. |
+|  | No | Only authorized users have access to customers’ credit card information.  |
+|  | No | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |
+|  | No | Implement data encryption procedures to better secure credit card transaction touchpoints and data.  |
+|  | No | Adopt secure password management policies. |
 
 General Data Protection Regulation (GDPR)
 
 | Yes |     No | Best practice |
 | ----- | ----- | :---- |
-|  |  | E.U. customers’ data is kept private/secured. |
-|  |  | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
-|  |  | Ensure data is properly classified and inventoried. |
-|  |  | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
+| Yes |  | E.U. customers’ data is kept private/secured. |
+| Yes |  | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
+| Yes |  | Ensure data is properly classified and inventoried. |
+| Yes |  | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
 
 System and Organizations Controls (SOC type 1, SOC type 2\) 
 
 | Yes |     No | Best practice |
 | ----- | ----- | :---- |
-|  |  | User access policies are established. |
-|  |  | Sensitive data (PII/SPII) is confidential/private. |
-|  |  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
-|  |  | Data is available to individuals authorized to access it. |
+| Yes |  | User access policies are established. |
+|  | No | Sensitive data (PII/SPII) is confidential/private. |
+| Yes |  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
+| Yes |  | Data is available to individuals authorized to access it. |
 
 ---
 
