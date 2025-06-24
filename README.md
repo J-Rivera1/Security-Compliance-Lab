@@ -1,4 +1,4 @@
-[Copy of Controls and compliance checklist.md](https://github.com/user-attachments/files/20885737/Copy.of.Controls.and.compliance.checklist.md)
+
 
 # Security-Compliance-Lab
 
@@ -147,3 +147,4 @@ This section is *optional* and can be used to provide a summary of recommendatio
 
 **Recommendations (optional):** In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
 
+[Copy of Controls and compliance checklist.md](https://github.com/user-attachments/files/20885737/Copy.of.Controls.and.compliance.checklist.md)
